@@ -130,5 +130,3 @@ loop do
   end
   break if g_o == "no"
 end
-
-# great work on the game
